@@ -8,9 +8,9 @@ This project can help car sellers, buyers, and dealerships make more informed de
 <h3>🔍 Exploratory Data Analysis (EDA)</h3>
 1.Distribution of car prices
 <br>
+2.Relationship between age, mileage, and price
 
-Relationship between age, mileage, and price
+3.Impact of fuel type and transmission on price
 
-Impact of fuel type and transmission on price
-
-Correlation heatmaps for feature selection
+4.Correlation heatmaps for feature selection
+<hr>
