@@ -6,7 +6,8 @@ This project can help car sellers, buyers, and dealerships make more informed de
 <hr>
 
 <h3>🔍 Exploratory Data Analysis (EDA)</h3>
-Distribution of car prices
+1.Distribution of car prices
+<br>
 
 Relationship between age, mileage, and price
 
