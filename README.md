@@ -11,6 +11,5 @@ This project can help car sellers, buyers, and dealerships make more informed de
 2.Relationship between age, mileage, and price
 
 3.Impact of fuel type and transmission on price
-
 4.Correlation heatmaps for feature selection
 <hr>
